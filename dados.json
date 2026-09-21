@@ -1,0 +1,48 @@
+{
+  "projetos": [
+    { "id": "p01", "categoria": "anime", "categoriaLabel": "アニメ", "nome": "Osamu Dazai", "universo": "Bungo Stray Dogs", "imagem": "https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=900&q=80", "imagemOriginal": "https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=900&q=80&sat=-100&con=20", "imagemFinal": "https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=1400&q=80", "tecnicas": ["Color grading", "Composição", "Iluminação", "Atmosfera"], "analise": "A foto original precisava de uma atmosfera mais densa, com sombras profundas e um tom levemente frio que remetesse à obra.", "construcao": "Iluminação lateral dramática, color grading frio, adição de haze atmosférico e tratamento de pele com preservação de textura.", "conceito": "Traduzir a ambiguidade do personagem — elegância e melancolia — em uma única imagem." },
+    { "id": "p02", "categoria": "anime", "categoriaLabel": "アニメ", "nome": "Ulquiorra Cifer", "universo": "Bleach", "imagem": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=900&q=80", "imagemOriginal": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=900&q=80&sat=-100&con=20", "imagemFinal": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=1400&q=80", "tecnicas": ["Background", "VFX", "Color grading", "Atmosfera"], "analise": "O fundo original não remetia a Hueco Mundo. Faltava a sensação de vazio e poder contido.", "construcao": "Substituição de background, partículas de luz, iluminação fria e color grading em tons de branco, ciano e negro.", "conceito": "Capturar o vazio existencial do personagem através de uma composição limpa e poderosa." },
+    { "id": "p03", "categoria": "games", "categoriaLabel": "ゲーム", "nome": "I'D Win", "universo": "Original", "imagem": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=900&q=80", "imagemOriginal": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=900&q=80&sat=-100&con=20", "imagemFinal": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=1400&q=80", "tecnicas": ["Composição", "Iluminação", "VFX", "Color grading"], "analise": "A foto original precisava transmitir a energia de um momento decisivo.", "construcao": "Iluminação de contorno, partículas de energia, brilho sutil e color grading quente com sombras profundas.", "conceito": "Transmitir determinação absoluta e o momento em que a vitória é inevitável." },
+    { "id": "p04", "categoria": "dark", "categoriaLabel": "闇", "nome": "I'm not a Zenin", "universo": "Jujutsu Kaisen", "imagem": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=900&q=80", "imagemOriginal": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=900&q=80&sat=-100&con=20", "imagemFinal": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=1400&q=80", "tecnicas": ["Atmosfera", "Contraste", "Color grading", "Iluminação"], "analise": "A imagem original era clara demais para o peso emocional do conceito.", "construcao": "Redução de exposição, iluminação lateral dura, sombras profundas e color grading frio com toques de vermelho.", "conceito": "Traduzir a rejeição e a força interior do personagem em uma composição densa e impactante." },
+    { "id": "p05", "categoria": "dark", "categoriaLabel": "闇", "nome": "Death City", "universo": "Original", "imagem": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?w=900&q=80", "imagemOriginal": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?w=900&q=80&sat=-100&con=20", "imagemFinal": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?w=1400&q=80", "tecnicas": ["Background", "Atmosfera", "VFX", "Color grading"], "analise": "Era necessário construir um cenário que remetesse a uma cidade em ruínas.", "construcao": "Composição de background urbano, névoa, partículas de poeira e color grading em tons sépia e verde-escuro.", "conceito": "Criar a sensação de um mundo abandonado onde apenas os fortes sobrevivem." },
+    { "id": "p06", "categoria": "filmes", "categoriaLabel": "映画", "nome": "Mr. Sandman", "universo": "Original", "imagem": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=900&q=80", "imagemOriginal": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=900&q=80&sat=-100&con=20", "imagemFinal": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=1400&q=80", "tecnicas": ["Color grading", "Atmosfera", "Composição"], "analise": "A imagem precisava evocar o universo do próprio editor — sonhos, mistério e elegância.", "construcao": "Aplicação de LUT cinematográfica, vinheta sutil, grão de filme e color grading em tons violeta e azul profundo.", "conceito": "Criar uma imagem que represente a identidade do editor: onírica, precisa e misteriosa." }
+  ],
+  "processo": [
+    { "num": "壱", "titulo": "Observar", "texto": "Análise da fotografia e identificação dos pontos fortes e problemas visuais." },
+    { "num": "弐", "titulo": "Planejar", "texto": "Definição da atmosfera, composição, iluminação e referências." },
+    { "num": "参", "titulo": "Construir", "texto": "Manipulação, composição, cenário e elementos visuais." },
+    { "num": "四", "titulo": "Refinar", "texto": "Tratamento de pele, iluminação, cores e detalhes." },
+    { "num": "五", "titulo": "Colorir", "texto": "Color grading e construção da identidade visual." },
+    { "num": "六", "titulo": "Finalizar", "texto": "Polimento, correção e preparação para entrega." }
+  ],
+  "servicos": [
+    { "icone": "01", "titulo": "Tratamento Profissional", "texto": "Correção de exposição, contraste, nitidez e limpeza geral da imagem." },
+    { "icone": "02", "titulo": "Retoque", "texto": "Tratamento de pele, olhos, cabelo e detalhes com preservação de textura." },
+    { "icone": "03", "titulo": "Edição de Cosplay", "texto": "Edição especializada para fotografias de cosplay, respeitando o personagem." },
+    { "icone": "04", "titulo": "Manipulação Fotográfica", "texto": "Composição de múltiplas imagens, elementos e cenários digitais." },
+    { "icone": "05", "titulo": "Criação de Backgrounds", "texto": "Construção de cenários digitais que remetem ao universo do personagem." },
+    { "icone": "06", "titulo": "Atmosferas", "texto": "Criação de névoa, partículas, luz volumétrica e clima visual." },
+    { "icone": "07", "titulo": "Efeitos Visuais", "texto": "Magia, energia, tecnologia e efeitos que reforçam a narrativa visual." },
+    { "icone": "08", "titulo": "Iluminação", "texto": "Reconstrução e direção de luz para dramaticidade e profundidade." },
+    { "icone": "09", "titulo": "Color Grading", "texto": "Construção de identidade visual através de cor, contraste e tom." },
+    { "icone": "10", "titulo": "Correção de Cores", "texto": "Ajuste preciso de cor para coerência visual e fidelidade ao personagem." },
+    { "icone": "11", "titulo": "Projetos Personalizados", "texto": "Projetos sob medida para necessidades específicas de cada cliente." }
+  ],
+  "faq": [
+    { "pergunta": "Que tipo de fotografia posso enviar?", "resposta": "Qualquer fotografia de cosplay com boa resolução. Fotos de celular ou câmera são bem-vindas. O importante é que a imagem permita trabalhar os detalhes." },
+    { "pergunta": "Preciso estar usando um cosplay profissional?", "resposta": "Não. O trabalho de edição pode valorizar qualquer cosplay. O que importa é a sua caracterização e a ideia que você quer transmitir." },
+    { "pergunta": "Posso escolher o estilo da edição?", "resposta": "Sim. Você pode enviar referências de estilo, atmosfera e color grading. Também posso sugerir o que melhor se adequa ao personagem." },
+    { "pergunta": "Posso enviar referências?", "resposta": "Sim, e recomendo. Referências visuais ajudam a alinhar expectativas e a construir a atmosfera desejada." },
+    { "pergunta": "Você trabalha com qualquer personagem?", "resposta": "Sim, desde que o personagem não viole direitos autorais de terceiros de forma indevida. Personagens originais também são muito bem-vindos." },
+    { "pergunta": "Posso solicitar uma edição inspirada em uma cena específica?", "resposta": "Sim. Se você tiver uma cena de referência, ela será analisada e adaptada para a sua fotografia." },
+    { "pergunta": "Quanto tempo leva para receber a imagem?", "resposta": "O prazo médio é de 5 a 10 dias, dependendo da complexidade do projeto. Projetos maiores podem ter prazo estendido." },
+    { "pergunta": "Como funciona o orçamento?", "resposta": "O orçamento é personalizado. Após enviar a fotografia e a ideia, uma análise é feita e o valor é apresentado com base na complexidade." },
+    { "pergunta": "Posso utilizar a imagem nas minhas redes sociais?", "resposta": "Sim. Você recebe a imagem final em alta resolução para uso pessoal e divulgação do seu cosplay." },
+    { "pergunta": "Você faz parcerias?", "resposta": "Sim! Parcerias e collabs são bem-vindas. Entre em contato via DM no Instagram @mr._sandman__." }
+  ],
+  "depoimentos": [
+    { "placeholder": true },
+    { "placeholder": true },
+    { "placeholder": true }
+  ]
+}
